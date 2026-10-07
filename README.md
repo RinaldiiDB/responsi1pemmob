@@ -19,9 +19,9 @@
 ## Screenshots & GIF Demo
 **Home Screen Grid & List**
 
-<img src="screenshot/img.png" width="150" alt="Home Grid" />
-<img src="screenshot/img_1.png" width="150" alt="Home List" />
-<img src="screenshot/img_2.png" width="150" alt="Detail" />
+<img src="screenshots/img.png" width="150" alt="Home Grid" />
+<img src="screenshots/img_1.png" width="150" alt="Home List" />
+<img src="screenshots/img_2.png" width="150" alt="Detail" />
 
 ---
 
